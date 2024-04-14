@@ -1,4 +1,4 @@
-# Otwarty kurs uczenia głębokiego
+# Otwarte kółko uczenia maszynowego
 # Źródła
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [DNN Course at the University of Warsaw](https://github.com/mim-uw/dnn-2023-24)
