@@ -1,4 +1,7 @@
 # Otwarte kółko uczenia maszynowego
+
+Jak zrobić do tego ładne github pages?
+
 # Źródła
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [DNN Course at the University of Warsaw](https://github.com/mim-uw/dnn-2023-24)
