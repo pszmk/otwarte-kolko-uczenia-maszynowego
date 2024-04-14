@@ -1,11 +1,11 @@
 # Otwarty kurs uczenia głębokiego
 # Źródła
-- [Deep Learning]{https://www.deeplearningbook.org/}
-- [Applied Deep Learning - university course 1]{https://github.com/Apress/applied-deep-learning}
-- [Advanced Applied Deep Learning - university course]{https://github.com/Apress/advanced-applied-deep-learning}
-- [Applied Deep Learning - university course 2]{https://github.com/maziarraissi/Applied-Deep-Learning}
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [Applied Deep Learning - university course 1](https://github.com/Apress/applied-deep-learning)
+- [Advanced Applied Deep Learning - university course](https://github.com/Apress/advanced-applied-deep-learning)
+- [Applied Deep Learning - university course 2](https://github.com/maziarraissi/Applied-Deep-Learning)
 - Deep Learning for Coders with Fastai and PyTorch
-- [Pytorch Deep Learning]{https://github.com/mrdbourke/pytorch-deep-learning}
+- [Pytorch Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
 VAE
 Vanilla VAE
