@@ -6,6 +6,7 @@ Jak zrobić do tego ładne github pages?
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [DNN Course at the University of Warsaw](https://github.com/mim-uw/dnn-2023-24)
 - [Deeplife](https://deeplife4eu.github.io/)
+- [Wizualne notatki do kopiowania](https://stanford.edu/~shervine/)
 - [Applied Deep Learning - university course 1](https://github.com/Apress/applied-deep-learning)
 - [Advanced Applied Deep Learning - university course](https://github.com/Apress/advanced-applied-deep-learning)
 - [Applied Deep Learning - university course 2](https://github.com/maziarraissi/Applied-Deep-Learning)
