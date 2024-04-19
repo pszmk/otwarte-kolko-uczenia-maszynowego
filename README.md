@@ -18,6 +18,7 @@ Youtube
 - [Introduction to Deep Learning MIT](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [ML for nerds](https://www.youtube.com/@MLForNerds/playlists)
 - [The AI Epiphany](https://www.youtube.com/@TheAIEpiphany/playlists)
+- [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 VAE
 Vanilla VAE
