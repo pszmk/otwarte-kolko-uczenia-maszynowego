@@ -16,8 +16,8 @@ Jak zrobić do tego ładne github pages?
 Youtube
 - [3B1B](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Introduction to Deep Learning MIT](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- https://www.youtube.com/@MLForNerds/playlists
-- 
+- [ML for nerds](https://www.youtube.com/@MLForNerds/playlists)
+- [The AI Epiphany](https://www.youtube.com/@TheAIEpiphany/playlists)
 
 VAE
 Vanilla VAE
