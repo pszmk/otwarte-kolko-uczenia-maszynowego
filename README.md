@@ -35,6 +35,7 @@
 - [ ] Utworzyć logo
 - [ ] Zrobić refactor po pierwszej iteracji i udoskonalić materiały
 - [ ] Dodać warstwy do konceptów -> dywizje w kółku
+- [ ] Dodać set ANKI do teorii
 
 ## Organizacja
 - [ ] Utworzyć tablicę z zadaniami
