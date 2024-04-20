@@ -34,6 +34,7 @@
 - [ ] Jak zrobić do tego ładne github pages i ustrukturyzować repozytorium?
 - [ ] Utworzyć logo
 - [ ] Zrobić refactor po pierwszej iteracji i udoskonalić materiały
+- [ ] Dodać warstwy do konceptów -> dywizje w kółku
 
 ## Organizacja
 - [ ] Utworzyć tablicę z zadaniami
