@@ -5,6 +5,7 @@
 - [ ] Stworzyć notatkę pdf z samą teorią do zaj 1
 - [ ] Stworzyć prezentację do zaj 1
 - [ ] Utworzyć logo
+- [ ] Utworzyć przykładowe rozwiązania problemów z IOAI
 
 # Olimpiady
 - [Olimpiada AI](https://oai.cs.uni.wroc.pl/)
