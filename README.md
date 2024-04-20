@@ -1,10 +1,10 @@
 # Otwarte kółko uczenia maszynowego
 
-[ ] Jak zrobić do tego ładne github pages i ustrukturyzować repozytorium?
-[ ] Ukończyć notatnik z macierzy i numpy do zaj 1
-[ ] Stworzyć notatkę pdf z samą teorią do zaj 1
-[ ] Stworzyć prezentację do zaj 1
-[ ] Utworzyć logo
+- [ ] Jak zrobić do tego ładne github pages i ustrukturyzować repozytorium?
+- [ ] Ukończyć notatnik z macierzy i numpy do zaj 1
+- [ ] Stworzyć notatkę pdf z samą teorią do zaj 1
+- [ ] Stworzyć prezentację do zaj 1
+- [ ] Utworzyć logo
 
 # Źródła
 - [Deep Learning](https://www.deeplearningbook.org/)
