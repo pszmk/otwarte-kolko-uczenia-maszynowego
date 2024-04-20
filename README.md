@@ -1,11 +1,24 @@
 # Otwarte kółko uczenia maszynowego
 
-- [ ] Jak zrobić do tego ładne github pages i ustrukturyzować repozytorium?
+# Materiały
+## Podstawy matematyczne
 - [ ] Ukończyć notatnik z macierzy i numpy do zaj 1
-- [ ] Stworzyć notatkę pdf z samą teorią do zaj 1
-- [ ] Stworzyć prezentację do zaj 1
-- [ ] Utworzyć logo
+- [ ] Utworzyć notatnik z rachunku prawdopodobieństwa i numpy do zaj 2
+- [ ] Utworzyć notatnik z pochodnych i reguły łańcuchowej do zaj 3
+
+## Podstawy klasycznego uczenia maszynowego
+
+## Podstawy uczenia głębokiego
+
+## Zadania olimpijskie
 - [ ] Utworzyć przykładowe rozwiązania problemów z IOAI
+
+## Organizacji i jakość
+- [ ] Stworzyć prezentację do zaj 1
+- [ ] Stworzyć notatkę pdf z samą teorią do zaj 1
+- [ ] Jak zrobić do tego ładne github pages i ustrukturyzować repozytorium?
+- [ ] Utworzyć logo
+- [ ] Zrobić refactor po pierwszej iteracji i udoskonalić materiały
 
 # Olimpiady
 - [Olimpiada AI](https://oai.cs.uni.wroc.pl/)
