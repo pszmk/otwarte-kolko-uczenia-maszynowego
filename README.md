@@ -6,6 +6,11 @@
 - [ ] Stworzyć prezentację do zaj 1
 - [ ] Utworzyć logo
 
+# Olimpiady
+- [Olimpiada AI](https://oai.cs.uni.wroc.pl/)
+- [Olimpiada AI międzynarodowa](https://ioai-official.org/)
+- [Olimpiada AI międzynarodowa - wymagania a w szczególności przykłady zadań](https://ioai-official.org/how-to-prepare/)
+
 # Źródła
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [DNN Course at the University of Warsaw](https://github.com/mim-uw/dnn-2023-24)
