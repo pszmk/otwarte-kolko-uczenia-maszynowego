@@ -1,4 +1,4 @@
-# Otwarte kółko uczenia maszynowego
+# Otwarte Kółko Uczenia Maszynowego 2024
 
 # Zakres konceptów objętych przez IOAI - roadmap bez materiałów kółkowych
 ## Python
