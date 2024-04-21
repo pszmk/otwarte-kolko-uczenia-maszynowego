@@ -62,6 +62,7 @@
 - [3][Pytorch Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning)
 ### Inne
 - [Wizualne notatki do kopiowania](https://stanford.edu/~shervine/)
+- [Papers with code - kategoryzacja najlepszych modeli](https://paperswithcode.com/sota)
 
 ## Youtube
 ### Podstawowe serie 3b1b
