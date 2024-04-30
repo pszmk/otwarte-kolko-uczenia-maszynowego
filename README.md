@@ -36,6 +36,7 @@
 - [ ] Zrobić refactor po pierwszej iteracji i udoskonalić materiały
 - [ ] Dodać warstwy do konceptów -> dywizje w kółku
 - [ ] Dodać set ANKI do teorii
+- [ ] Jeżeli potrzeba dodać wersję notatników dedykowane google colab
 
 ## Organizacja
 - [ ] Utworzyć tablicę z zadaniami
