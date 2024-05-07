@@ -64,6 +64,7 @@
 ### Inne
 - [Wizualne notatki do kopiowania](https://stanford.edu/~shervine/)
 - [Papers with code - kategoryzacja najlepszych modeli](https://paperswithcode.com/sota)
+- [UvA DL Notebooks - świetłe źródło inspiracji do tematów zajęć](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html#)
 
 ## Youtube
 ### Podstawowe serie 3b1b
