@@ -1,3 +1,5 @@
+### RNN
+LSTM, GRU, xLSTM xd
 ### GAN
 Jensen-Shannon divergence
 ### VAE
