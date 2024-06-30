@@ -16,6 +16,7 @@ Z boku bardziej standardowy ML i statystyka w różnych odsłonach
 - lista ćwiczeń pdf do zrobienia na kartce - tu też nowa teria może się pojawiać jak to bywa w ćwiczeniach
 - ANKI - fiszki do kluczowych elementów (czyli powiedzmy wyprowadzeń ważniejszych i pojęć) około 5-10 na zajęcia ~ 150 na semestr
 ## Praktyka
+ZAWSZE COS podstawowego + JAKIS INNY FAJNY TASK (choćby kawałem teorii i załadowany gotowy model)
 - notatnik laboratoryjny z TODO + odpowiedzi udostępnianie na następnych zajęciach (zadanie to przejść zapisane testy czy sprawdzenia)
 - Zadania główne - po prostu większe notebooki z TODO do zrobienia - mają być dobrze przygotowane, aby robić je dla własnego zrozumienia, bo będą recyclowane (może figurować kilka wersji bazowanych na tym samym source codzie) - muszą być dobrze zrevievowane, tak aby było wiadomo o co chodzi w zadaniu + podane źródła do kopiowania ewentualnego
 - mniejsze zadania dodatkowe do prezentacji indywidualnej na zajęciach (wprowadzają mini pomysły do sprawdzenia i poszerzenia wiedzy) (prowadzący do kogoś podchodzi, jak inni chcą posłuchać to mogą podejść) + zadania przygotowuje się w osobnym notatniku
